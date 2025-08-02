@@ -1,0 +1,15 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data files
+data/audio/
+data/images/
+
+# Database
+*.db
